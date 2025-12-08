@@ -1,0 +1,13 @@
+C:\Users\ACE Sooruth\Documents\Tuition\Rhian\PROG7312_Supp\PROG7312_MunicipalPortal\PROG7312_MunicipalPortal\bin\Debug\PROG7312_MunicipalPortal.exe.config
+C:\Users\ACE Sooruth\Documents\Tuition\Rhian\PROG7312_Supp\PROG7312_MunicipalPortal\PROG7312_MunicipalPortal\bin\Debug\PROG7312_MunicipalPortal.exe
+C:\Users\ACE Sooruth\Documents\Tuition\Rhian\PROG7312_Supp\PROG7312_MunicipalPortal\PROG7312_MunicipalPortal\bin\Debug\PROG7312_MunicipalPortal.pdb
+C:\Users\ACE Sooruth\Documents\Tuition\Rhian\PROG7312_Supp\PROG7312_MunicipalPortal\PROG7312_MunicipalPortal\obj\Debug\PROG7312_MunicipalPortal.csproj.AssemblyReference.cache
+C:\Users\ACE Sooruth\Documents\Tuition\Rhian\PROG7312_Supp\PROG7312_MunicipalPortal\PROG7312_MunicipalPortal\obj\Debug\PROG7312_MunicipalPortal.Properties.Resources.resources
+C:\Users\ACE Sooruth\Documents\Tuition\Rhian\PROG7312_Supp\PROG7312_MunicipalPortal\PROG7312_MunicipalPortal\obj\Debug\PROG7312_MunicipalPortal.csproj.GenerateResource.cache
+C:\Users\ACE Sooruth\Documents\Tuition\Rhian\PROG7312_Supp\PROG7312_MunicipalPortal\PROG7312_MunicipalPortal\obj\Debug\PROG7312_MunicipalPortal.csproj.CoreCompileInputs.cache
+C:\Users\ACE Sooruth\Documents\Tuition\Rhian\PROG7312_Supp\PROG7312_MunicipalPortal\PROG7312_MunicipalPortal\obj\Debug\PROG7312_MunicipalPortal.exe
+C:\Users\ACE Sooruth\Documents\Tuition\Rhian\PROG7312_Supp\PROG7312_MunicipalPortal\PROG7312_MunicipalPortal\obj\Debug\PROG7312_MunicipalPortal.pdb
+C:\Users\ACE Sooruth\Documents\Tuition\Rhian\PROG7312_Supp\PROG7312_MunicipalPortal\PROG7312_MunicipalPortal\obj\Debug\PROG7312_MunicipalPortal.MenuScreen.resources
+C:\Users\ACE Sooruth\Documents\Tuition\Rhian\PROG7312_Supp\PROG7312_MunicipalPortal\PROG7312_MunicipalPortal\obj\Debug\PROG7312_MunicipalPortal.ReportIssues.resources
+C:\Users\ACE Sooruth\Documents\Tuition\Rhian\PROG7312_Supp\PROG7312_MunicipalPortal\PROG7312_MunicipalPortal\obj\Debug\PROG7312_MunicipalPortal.CheckStatus.resources
+C:\Users\ACE Sooruth\Documents\Tuition\Rhian\PROG7312_Supp\PROG7312_MunicipalPortal\PROG7312_MunicipalPortal\obj\Debug\PROG7312_MunicipalPortal.LocalEvents.resources
