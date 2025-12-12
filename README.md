@@ -38,7 +38,7 @@ Usage:
 The application encapsulates an interface for users to handle issues and service requests of a local municipality. Thus a feature was created to 
 allow users to report local municipal issues, thus requesting service to solve the issue.
 
-How to Use
+How to Use:
 The “reporting” of an issue is presented by the completion of a form, which collects all necessary information for the Municipal Workers to 
 investigate and resolve the reported issue. The form is broken down into 4 main sections, namely the Location, Category, Description and 
 Evidence Attachment.
@@ -95,13 +95,13 @@ displaying all events.
 Service Status Update
 ---------------------
 
-Usage
+Usage:
 An application that allows you to report an issue but gives no feedback or tracking ability is ultimately useless, thus a feature to view the 
 status of issues is offered on this application. The requests are stored by their RequestID, making it easy to traverse and search through for 
 users to check updates on a specific request. Each issue reported in the first form (Report Issues) is added to this list of requests displayed 
 on this form.
 
-How to Use
+How to Use:
 Similar to the Local Events, the requests are displayed to the user in a DataGridView and the user is given several options to search for their 
 request, namely by RequestID and by BFS.
 
